@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Teste Numero 38</string>
+    <string name="msg_codigo_hint">Codigo...</string>
+    <string name="btn_msg_add">Adicionar</string>
+    <string name="msg_status_serv">Status</string>
+    <string name="name_code">#CODE</string>
+    <string name="product_name">Nome do produto</string>
+    <string name="name_client">Nome do cliente</string>
+</resources>
